@@ -7,4 +7,4 @@
 + axios 비동기 통신 사용
 + corcurrently라이브러리로 React, Express서버 동시사용
 
-
+<img src="https://user-images.githubusercontent.com/52149400/119213142-0268a400-baf8-11eb-8e94-40b0c39fb4b8.png" width="50%" height="50%">
